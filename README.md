@@ -1,4 +1,6 @@
 # Customer Behaviour Analysis & Dashboard
+## Dashboard Preview
+![Customer Behaviour Dashboard](dashboard.png)
 ## Project Overview
 
 This project analyzes customer purchasing behavior using sales data and presents insights through a Customer Behaviour Dashboard.
