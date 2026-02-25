@@ -118,4 +118,4 @@ The dashboard is designed for executive-level summary and drill-down analysis.
 
 * Subscription program evaluation
 
-Marketing segmentation recommendations
+* Marketing segmentation recommendations.
