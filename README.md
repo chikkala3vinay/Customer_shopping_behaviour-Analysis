@@ -107,3 +107,15 @@ The dashboard is designed for executive-level summary and drill-down analysis.
 * Clothing generates the highest revenue.
 
 * Accessories and Footwear follow.
+  
+ ## Business Impact
+
+* This project demonstrates how raw transactional data can be transformed into:
+
+* Actionable customer insights
+
+* Revenue optimization strategies
+
+* Subscription program evaluation
+
+Marketing segmentation recommendations
